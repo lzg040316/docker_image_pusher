@@ -2,3 +2,4 @@ alpine
 python:alpine3.19
 xiaoyaliu/alist:latest
 dreamacro/clash:dev
+haishanh/yacd:master
