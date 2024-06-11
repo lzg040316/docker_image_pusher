@@ -3,3 +3,4 @@ python:alpine3.19
 xiaoyaliu/alist:latest
 dreamacro/clash:dev
 haishanh/yacd:master
+halohub/halo:sha-7b2c8e4
